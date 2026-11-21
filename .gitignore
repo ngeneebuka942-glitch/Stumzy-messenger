@@ -1,0 +1,14 @@
+node_modules/
+*.db
+*.db-shm
+*.db-wal
+.env
+.env.*
+!.env.example
+public/uploads/
+*.backup-*
+.stumzy-*
+backups/
+*.backup*
+test.db
+public/index.backup*
